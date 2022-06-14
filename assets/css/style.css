@@ -65,7 +65,7 @@ p {
     margin-left: 20px;
 }
 
-/* moved float classes for semantic flow? */
+/* moved float classes for sequential flow */
 
 .float-left {
     float: left;
